@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cohort Details Component should always render same html 1`] = `
+<DocumentFragment>
+  <div>
+    <h3>
+      CWE_Java_2026
+    </h3>
+    <p>
+      Start Date: 01-Jan-2026
+    </p>
+    <p>
+      Status: ongoing
+    </p>
+  </div>
+</DocumentFragment>
+`;
